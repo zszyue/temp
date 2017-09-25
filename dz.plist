@@ -1,0 +1,43 @@
+<?xml version="1.3.0" encoding="utf-8"?>
+
+<plist version="1.3.0"> 
+  <dict> 
+    <key>items</key>  
+    <array> 
+      <dict> 
+        <key>assets</key>  
+        <array> 
+          <dict> 
+            <key>kind</key>  
+            <string>software-package</string>  
+            <key>url</key>  
+            <string>http://192.168.0.222/ddz/ddz.ipa</string> 
+          </dict>  
+          <dict> 
+            <key>kind</key>  
+            <string>display-image</string>  
+            <key>url</key>  
+            <string>http://images.uu898.com/uploadFiles/SYAppMarketImgs/2017/0526/636313929947923733-346-57-22.png</string> 
+          </dict>  
+          <dict> 
+            <key>kind</key>  
+            <string>full-size-image</string>  
+            <key>url</key>  
+            <string>http://images.uu898.com/uploadFiles/SYAppMarketImgs/2017/0526/636313929947923733-346-57-22.png</string> 
+          </dict> 
+        </array>  
+        <key>metadata</key>  
+        <dict> 
+          <key>bundle-identifier</key>  
+          <string>com.uu661.ddzCompony</string>
+          <key>bundle-version</key>
+		  <string>1.3.0<string/>  
+          <key>kind</key>  
+          <string>software</string>  
+          <key>title</key>  
+          <string>UU斗地主</string> 
+        </dict> 
+      </dict> 
+    </array> 
+  </dict> 
+</plist>
